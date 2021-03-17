@@ -4,7 +4,7 @@
 To run Project 
 go to Anaconda Prompt
 
-# cd <directory-name>
+ cd <directory-name>
   e.g.cd image-scrapper
 # Now run python code using prompt
   python image-scrapper.py
