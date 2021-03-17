@@ -1,6 +1,6 @@
 # image-scrapper
 
-
+ 
 To run Project 
 go to Anaconda Prompt
 
